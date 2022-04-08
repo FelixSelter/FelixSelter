@@ -7,11 +7,16 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixSelter" />  
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@FelixSelter" />  
 
+
+
+
 - 🔭 I’m currently working on [JEnv-for-Windows](https://github.com/FelixSelter/JEnv-for-Windows)
 
 - 📝 I regularly write articles on [Probably coming soon](Probably coming soon)
 
 - 📫 How to reach me **felixselterdeveloping@gmail.com**
+
+- You are the ![Visitor Count](https://profile-counter.glitch.me/{FelixSelter}/count.svg) Person watching my profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
