@@ -3,6 +3,8 @@
 ![index](https://user-images.githubusercontent.com/55546882/162516660-14da8310-ef0f-4468-a1a8-55ba44c0ced2.png)
 <h1 align="center">An eager student from Germany that always wants to learn something new.</h1>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixSelter" />
+
 - 🔭 I’m currently working on [JEnv-for-Windows](https://github.com/FelixSelter/JEnv-for-Windows)
 
 - 📝 I regularly write articles on [Probably coming soon](Probably coming soon)
